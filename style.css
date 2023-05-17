@@ -60,3 +60,9 @@ body {
 .type-input:focus{
   border-color: black;
 }
+.correct {
+  color: green;
+}
+.incorrect{
+  color: red;
+}
